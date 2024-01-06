@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and JavaScript
 - 💞️ I’m looking to collaborate on future coding projects involving online tools or apps
 - 📫 How to reach me
-- Sinister Gaming @_SinisterRose_ (underscores before and after my @ cause it's being weird) on YouTube
+- Sinister Gaming @_SinisterRose (underscores after my username cause it's being weird) on YouTube
 - sinisterrose09 on Discord
 
 <!---
